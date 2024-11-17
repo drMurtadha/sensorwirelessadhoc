@@ -149,9 +149,9 @@ By the end of this topic, students should be able to:
 - **Sensor Networks**: Characteristics, challenges, applications, including environmental and healthcare monitoring.
 - **Wireless and Ad-Hoc Networks**: Differences, routing protocols, challenges such as mobility, security, and real-world examples like smart cities and vehicular networks.
 
-%### 8.2 Discussion
-%**Engage Students**: Pose questions related to practical deployment scenarios such as how to optimize a sensor network deployed in a remote location.
-%**Small Exercises**: Ask students to propose solutions for specific challenges in sensor or ad-hoc networks, such as designing an energy-efficient routing protocol for a large-scale sensor deployment.
+### 8.2 Discussion
+**Engage Students**: how to optimize a sensor network deployed in a remote location.
+**Small Exercises**: design an energy-efficient routing protocol for a large-scale sensor deployment.
 
 ---
 
