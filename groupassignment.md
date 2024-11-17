@@ -6,25 +6,25 @@
 ## Group Topics and Tasks
 
 **Word Count Requirement**: Each group report must be between 2,500 - 3,000 words, excluding references and appendices. The report must be formatted using **Times New Roman, 12-point font, double-spaced** with **1-inch margins** on all sides. Additionally, each group must include a **3-minute video** summarizing their findings and providing visual insights into their topic. Each group must include at least **5 references from Web of Science within the past 5 years** to ensure the report is based on the latest research. Presentations should be between 10-15 minutes.
-1. **Group 1: Sensor Networks in Smart Cities**
+1. **Group A: Sensor Networks in Smart Cities**
    - Research and describe the role of sensor networks in smart city infrastructure.
    - Identify specific case studies of smart city projects that have implemented sensor networks.
    - Analyze the challenges of energy efficiency and data management in urban sensor networks.
    - Propose potential improvements to sensor deployment in a smart city context.
 
-2. **Group 2: Wireless Communication Protocols**
+2. **Group B: Wireless Communication Protocols**
    - Compare different wireless communication protocols (e.g., Wi-Fi, LPWAN, Bluetooth) used in sensor networks.
    - Discuss the advantages and limitations of each protocol in terms of range, energy efficiency, and data rates.
    - Provide a real-world example for each protocol and evaluate its effectiveness.
    - Suggest suitable applications for each protocol based on the findings.
 
-3. **Group 3: Ad-Hoc Network Applications**
+3. **Group C: Ad-Hoc Network Applications**
    - Explain the concept of ad-hoc networks and their key features.
    - Discuss the potential use of ad-hoc networks in disaster recovery scenarios.
    - Analyze the pros and cons of using ad-hoc networks in military and vehicular applications.
    - Propose an innovative application of ad-hoc networks in a new domain (e.g., healthcare, remote learning).
 
-4. **Group 4: Emerging Trends in Sensor and Ad-Hoc Networks**
+4. **Group D: Emerging Trends in Sensor and Ad-Hoc Networks**
    - Research and present on the integration of edge computing in sensor networks.
    - Discuss the role of AI/ML in optimizing sensor and ad-hoc network performance.
    - Identify recent advancements in cloud-integrated sensor networks and their impact.
