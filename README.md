@@ -123,7 +123,7 @@ By the end of this topic, students should be able to:
 - **Node Mobility**: In ad-hoc networks, managing dynamic network topology due to moving nodes can be challenging. Frequent link breakages require efficient rerouting mechanisms and mobility prediction.
 - **Mobility Solutions**: Mobility models such as Random Waypoint and Gauss-Markov are used to predict node behavior, which aids in developing proactive routing strategies to maintain network stability.
 
- An example of such an attack is a wormhole attack, where an adversary records packets at one location and replays them at another, creating a false route and disrupting the network's normal operations.
+An example of such an attack is a wormhole attack, where an adversary records packets at one location and replays them at another, creating a false route and disrupting the network's normal operations.
 - **Solutions**: Use of cryptographic techniques such as symmetric and asymmetric encryption, secure routing algorithms, and intrusion detection systems helps to counteract threats and protect data integrity.
 
 ## 6. Real-World Case Study and Examples (10 mins)
