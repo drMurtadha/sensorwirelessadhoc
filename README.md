@@ -144,14 +144,14 @@ By the end of this topic, students should be able to:
 - **Artificial Intelligence and Machine Learning** are increasingly applied to optimize routing, predict network behavior, and enhance overall efficiency in sensor and ad-hoc networks.
 - **Predictive Analysis**: AI models predict network congestion, optimize power consumption, and improve Quality of Service (QoS). Machine learning techniques are used to develop adaptive routing protocols that respond to changing network conditions.
 
-## 8. Q&A and Wrap-Up (10 mins)
+## 8. Wrap-Up (10 mins)
 ### 8.1 Recap of Key Points
 - **Sensor Networks**: Characteristics, challenges, applications, including environmental and healthcare monitoring.
 - **Wireless and Ad-Hoc Networks**: Differences, routing protocols, challenges such as mobility, security, and real-world examples like smart cities and vehicular networks.
 
-### 8.2 Discussion
-- **Engage Students**: Pose questions related to practical deployment scenarios such as how to optimize a sensor network deployed in a remote location.
-- **Small Exercises**: Ask students to propose solutions for specific challenges in sensor or ad-hoc networks, such as designing an energy-efficient routing protocol for a large-scale sensor deployment.
+%### 8.2 Discussion
+%**Engage Students**: Pose questions related to practical deployment scenarios such as how to optimize a sensor network deployed in a remote location.
+%**Small Exercises**: Ask students to propose solutions for specific challenges in sensor or ad-hoc networks, such as designing an energy-efficient routing protocol for a large-scale sensor deployment.
 
 ---
 
