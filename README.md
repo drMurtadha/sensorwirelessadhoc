@@ -1,5 +1,4 @@
 # sensorwirelessadhoc
-
 # Table of Contents
 1. [Introduction to Sensor Networks](#1-introduction-to-sensor-networks-15-mins)
     1.1 [Definition and Characteristics](#11-definition-and-characteristics)
@@ -30,6 +29,16 @@
     8.1 [Recap of Key Points](#81-recap-of-key-points)
     8.2 [Discussion](#82-discussion)
 
+
+# Learning Outcomes
+By the end of this topic, students should be able to:
+1. Explain the characteristics and applications of sensor networks, including energy efficiency, scalability, and self-healing capabilities.
+2. Describe different types of wireless networks, including Wi-Fi, cellular, LPWAN, and Bluetooth, and discuss their respective advantages and limitations.
+3. Compare and contrast ad-hoc networks with traditional networks, highlighting their unique features and challenges.
+4. Identify key protocols used in sensor, wireless, and ad-hoc networks, such as MAC, proactive, reactive, and hybrid routing protocols.
+5. Discuss the key challenges associated with sensor, wireless, and ad-hoc networks, including resource constraints, mobility, and security issues.
+6. Analyze real-world case studies such as smart city deployments and vehicular ad-hoc networks (VANETs).
+7. Explain emerging trends in sensor and ad-hoc networks, particularly the integration with cloud, edge computing, and the use of AI/ML for optimization.
 
 # Lecture Notes: Advanced Computer Network and Cloud Computing  
 **Topic**: Sensor, Wireless, and Ad-Hoc Networks  
@@ -147,8 +156,12 @@
 ---
 
 ### **Additional Notes**
-- **Tutorial**: compare two routing protocols (e.g., AODV vs. LEACH) based on energy efficiency, scalability, and adaptability in different scenarios.
+- **Homework**: compare two routing protocols (e.g., AODV vs. LEACH) based on energy efficiency, scalability, and adaptability in different scenarios.
 - **Recommended Reading**: IEEE papers on emerging trends in sensor and ad-hoc networks, and chapters from the textbook "Wireless Sensor Networks: Technology, Protocols, and Applications" by Kazem Sohraby et al. Additionally, students should explore recent case studies on vehicular networks and their integration with emerging technologies like 5G.
+
+
+
+
 
 
 
